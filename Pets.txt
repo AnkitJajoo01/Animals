@@ -3,3 +3,5 @@ Dog
 Cat
 Cow
 Buffalo
+Turtle
+Goat
