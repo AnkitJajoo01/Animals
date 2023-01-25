@@ -5,3 +5,5 @@ Cow
 Buffalo
 Turtle
 Goat
+Frog
+Owl
